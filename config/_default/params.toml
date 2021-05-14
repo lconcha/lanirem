@@ -48,7 +48,7 @@ local_business_type = ""
 org_name = ""
 
 # Description for social sharing and search engines. If undefined, superuser role is used in place.
-description = "My research group description."
+description = "Laboratorio Nacional enfocado en imagenología por resonancia magnética."
 
 ############################
 ## Site Features
@@ -84,26 +84,26 @@ show_related = {post = true, project = true, publication = true, talk = true}
 ############################
 
 # Enter contact details (optional). To hide a field, clear it to "".
-email = "test@example.org"
-phone = "888 888 88 88"
+email = "lconcha@unam.mx"
+phone = "442-206-2651"
 
 # Address
 # For country_code, use the 2-letter ISO code (see https://en.wikipedia.org/wiki/ISO_3166-1_alpha-2 )
-address = {street = "450 Serra Mall", city = "Stanford", region = "CA", postcode = "94305", country = "United States", country_code = "US"}
+address = {street = "Blvd. Juriquilla 3001", city = "Querétaro", region = "Querétaro", postcode = "76250", country = "Mexico", country_code = "MX"}
 
 # Geographic coordinates
 # To get your coordinates, right-click on Google Maps and choose "What's here?". The coords will show up at the bottom.
-coordinates = {latitude = "37.4275", longitude = "-122.1697"}
+coordinates = {latitude = "20.70524519647626", longitude = "-100.4448846357006"}
 
 # Directions for visitors to locate you.
-directions = "Enter Building 1 and take the stairs to Reception on Floor 2"
+directions = "Estamos frente a la UVM"
 
 # Office hours
 # A list of your office hours. To remove, set to an empty list `[]`.
-office_hours = ["9:00 to 17:00 Monday to Friday"]
+office_hours = ["9:00 a 20:00 Lunes a viernes"]
 
 # Enter an optional link for booking appointments (e.g. calendly.com).
-appointment_url = "https://calendly.com"
+#appointment_url = "https://calendly.com"
 
 # Contact links
 #   Set to `[]` to disable, or comment out unwanted lines with a hash `#`.
@@ -136,7 +136,7 @@ date_format = "Jan 2, 2006"
 time_format = "3:04 PM"
 
 # Address format (en-us, en-gb, de, fr-fr, zh).
-address_format = "en-us"
+address_format = "es"
 
 ############################
 ## Advanced
@@ -245,7 +245,7 @@ plugins_js  = []
   #   "google": Google Maps
   #   "mapnik": OpenStreetMap (Mapnik)
   #   "mapbox": OpenStreetMap (Mapbox)
-  provider = "mapnik"
+  provider = "google"
   api_key = ""
   zoom = 15
 
