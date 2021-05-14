@@ -6,7 +6,7 @@
 widget: hero  # See https://wowchemy.com/docs/page-builder/
 headless: true  # This file represents a page section.
 weight: 10  # Order that this section will appear.
-title: "Wowchemy Research Group"
+title: "Lanirem"
 subtitle: ""
 hero_media: welcome.jpg
 design:
@@ -17,4 +17,4 @@ advanced:
   css_class:
 ---
 
-The Wowchemy Research Group has been a center of excellence for Artificial Intelligence research, teaching, and practice since its founding in 2016.
+Somos el mejor lugar en México para realizar imágenes de resonancia magnética con fines de investigación. Formamos parte del Instituto de Neurobiología de la UNAM, el centro de investigación en Matemáticas y la Universidad Autónoma de Querétaro. El laboratorio fue creado gracias al apoyo del Programa de Laboratorios Nacionales del CONACyT.
