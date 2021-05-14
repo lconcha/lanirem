@@ -1,73 +1,57 @@
 ---
-# Display name
-title: Nelson Bighetti
-
-# Is this the primary user of the site?
-superuser: true
-
-# Role/position
-role: Professor of Artificial Intelligence
-
-# Organizations/Affiliations
-organizations:
-- name: Stanford University
-  url: ""
-
-# Short bio (displayed in user profile at end of posts)
-bio: My research interests include distributed robotics, mobile computing and programmable matter.
-
-interests:
-- Artificial Intelligence
-- Computational Linguistics
-- Information Retrieval
-
+name: Luis Concha
+authors:
+- admin
+- Concha, L.
+- Concha, Luis
+- Luis Concha
+- L. Concha
+bio: Estudio enfermedades neurológicas mediante técnicas avanzadas de neuroimagen por resonancia magnética.
 education:
   courses:
-  - course: PhD in Artificial Intelligence
-    institution: Stanford University
-    year: 2012
-  - course: MEng in Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    year: 2009
-  - course: BSc in Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    year: 2008
-
-# Social/Academic Networking
-# For available icons, see: https://sourcethemes.com/academic/docs/page-builder/#icons
-#   For an email link, use "fas" icon pack, "envelope" icon, and a link in the
-#   form "mailto:your-email@example.com" or "#contact" for contact widget.
+  - course: Postdoc in imaging of epilepsy
+    institution: Montreal Neurological Hospital
+    year: 2008-2010
+  - course: PhD in Biomedical Engineering / Medical Science
+    institution: University of Alberta
+    year: 2003-2007
+  - course: Medical School
+    institution: Universidad Autónoma de San Luis Potosí, Mexico
+    year: 1995-2002
+email: "lconcha@unam.mx"
+interests:
+- Epilepsia
+- Imágenes sensibles a difusión (dMRI)
+- Neuroimagen cuantitativa
+organizations:
+- name: Instituto de Neurobiología
+  url: "http://inb.unam.mx"
+  role: Investigador Titular
+- name: Lanirem
+  url: "http://www.lanirem.inb.unam.mx/"
+  role: Responsable Técnico
+- name: Universidad Nacional Autónoma de México
+  url: "http://www.unam.mx"
 social:
-- icon: envelope
-  icon_pack: fas
-  link: 'mailto:test@example.org'
-- icon: twitter
-  icon_pack: fab
-  link: https://twitter.com/GeorgeCushen
 - icon: google-scholar
   icon_pack: ai
-  link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
+  link: https://scholar.google.com/citations?user=MGKKGYEAAAAJ&hl=en
+- icon: researchgate
+  icon_pack: ai
+  link: https://www.researchgate.net/profile/Luis_Concha
+- icon: pubmed
+  icon_pack: ai
+  link: https://www.ncbi.nlm.nih.gov/pubmed/?term=Concha%20L%5BAuthor%5D&cauthor=true&cauthor_uid=24051366
+- icon: orcid
+  icon_pack: ai
+  link: https://orcid.org/0000-0002-7842-3869
 - icon: github
   icon_pack: fab
-  link: https://github.com/gcushen
-# Link to a PDF of your resume/CV from the About widget.
-# To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
-# - icon: cv
-#   icon_pack: ai
-#   link: files/cv.pdf
+  link: https://github.com/lconcha
 
-# Enter email to display Gravatar (if Gravatar enabled in Config)
-email: ""
 
-# Highlight the author in author lists? (true/false)
-highlight_name: false
-
-# Organizational groups that you belong to (for People widget)
-#   Set this to `[]` or comment out if you are not using People widget.
+superuser: true
 user_groups:
 - Researchers
 ---
 
-Nelson Bighetti is a professor of artificial intelligence at the Stanford AI Lab. His research interests include distributed robotics, mobile computing and programmable matter. He leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
-
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate.
