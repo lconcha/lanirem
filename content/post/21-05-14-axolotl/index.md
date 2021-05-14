@@ -8,3 +8,5 @@ El Instituto de Neurobiología publicó un atlas histológico y de IRM del cereb
 <!--more-->
 
 Este recurso será de gran utilidad para el estudio de este animal con asombrosas capacidades regenerativas.
+
+Lee el artículo completo [aquí](https://www.nature.com/articles/s41598-021-89357-3).
