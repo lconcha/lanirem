@@ -1,5 +1,5 @@
 ---
-name: Luis Concha
+title: Luis Concha
 authors:
 - admin
 - Concha, L.
