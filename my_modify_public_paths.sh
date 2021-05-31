@@ -1,16 +1,24 @@
 #!/bin/bash
 
 
-sed -i 's/\"\/css/..\/..\/css/g' publication/index.html;# | grep --color=always wowchemy
-sed -i 's/\"\/js/..\/..\/js/g' publication/index.html;# | grep --color=always wowchemy
-sed -i 's/http:\/\/www.lanirem.inb.unam.mx\/publication/http:\/\/www.lanirem.inb.unam.mx\/blog\/publication/g' public/publication/index.html
+#f=blog/publication/index.html
+#sed -i 's/\"\/css/\"..\/css/g' $f;# | grep --color=always wowchemy
+#sed -i 's/\"\/js/\"..\/js/g' $f;# | grep --color=always wowchemy
+#sed -i 's/\"\/publication/\"\/blog\/publication/g' $f;# | grep --color=always wowchemy
+#sed -i 's/http:\/\/www.lanirem.inb.unam.mx\/publication/http:\/\/www.lanirem.inb.unam.mx\/blog\/publication/g' $f
+#sed -i 's|\"\/author|\"\/blog\/author|g' $f;# | grep --color=always author
+#sed -i 's|\"\/publication|\"\/blog\/publication|g' $f;# | grep --color=always publication
 
-for f in publication/*/index.html
+
+for f in blog/publication/*/index.html blog/publication/index.html blog/author/*/index.html
 do
   echo "Modifying $f"
-  sed -i 's/\"\/author/..\/..\/author/g' $f;# | grep --color=always author
-  sed -i 's/\"\/publication/..\/..\/publication/g' $f;# | grep --color=always publication
-  sed -i 's/http:\/\/www.lanirem.inb.unam.mx\/publication/http:\/\/www.lanirem.inb.unam.mx\/blog\/publication/g' $f;# | grep --color=always publication
+  sed -i 's|\"\/author|\"\/blog\/author|g' $f
+  sed -i 's|\"\/publication|\"\/blog\/publication|g' $f
+  sed -i 's|http:\/\/www.lanirem.inb.unam.mx\/publication|http:\/\/www.lanirem.inb.unam.mx\/blog\/publication|g' $f
+  sed -i 's|\"\/css|\"\/blog\/css|g' $f
+  sed -i 's|\"\/js|\"\/blog\/js|g' $f
+  sed -i 's|\/es\/js|..\/es\/js|g' $f
 done
 
 echo '
