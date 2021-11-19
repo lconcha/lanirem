@@ -6,13 +6,13 @@ title: Evidence of Genetic Overlap Between Circadian Preference and Brain White 
 subtitle: ''
 summary: ''
 authors:
-- Luis M. García-Mar\ń
+- Luis M. García-Marín
 - Sarael Alcauter
 - Adrian I. Campos
 - Aoibhe Mulcahy
 - Pik-Fang Kho
 - Gabriel Cuéllar-Partida
-- ́ Miguel E. Renter\'
+- Miguel Rentería
 tags:
 - '"chronotype"'
 - '"circadian preference"'
