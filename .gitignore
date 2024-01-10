@@ -1,6 +1,7 @@
 # IDEs
 .idea/
 .Rhistory
+*.lock
 
 # Hugo
 /resources/
