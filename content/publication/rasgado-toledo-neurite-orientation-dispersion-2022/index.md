@@ -10,12 +10,12 @@ authors:
 - Madhura Ingalhalikar
 - Eduardo A. Garza-Villarreal
 tags:
-- '"cocaine use disorder (cud)"'
-- '"diffusion weighted imaging (dwi)"'
-- '"free-water (fw)"'
-- '"magnetic resonance imaging (mri)"'
-- '"neurite orientation dispersion and density imaging (noddi)"'
-- '"substance use disorders (sud)"'
+- Cocaine use disorder (cud)
+- Diffusion weighted imaging (dwi)
+- Free-water (fw)
+- Magnetic resonance imaging (mri)
+- Neurite orientation dispersion and density imaging (noddi)
+- Substance use disorders (sud)
 categories: []
 date: '2022-03-01'
 lastmod: 2021-11-18T19:19:03-06:00
@@ -36,7 +36,7 @@ image:
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
 projects: []
-publishDate: '2021-11-19T01:19:03.335879Z'
+publishDate: '2024-01-10T00:45:12.732309Z'
 publication_types:
 - '2'
 abstract: Cocaine use disorder (CUD) is characterized by a compulsive search for cocaine.
