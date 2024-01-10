@@ -5,7 +5,7 @@
 2. Exportar como betterbibtex a `archivo.bib`
 ![](https://i.imgur.com/Ss2qFFe.png)
 3. Abrir el proyecto de la página  en Rstudio
-4. Importar el `archivo.bib` usando, en línea de comando (no en consola de rstudio), el script `academic` (ver [aquí](https://github.com/GetRD/academic-file-converter) para instalar). Debemos hacer `cd` hacia el folder base del proyecto `(/datos/syphon/lconcha/www_lanirem/lanirem)`, y ejecutamos el script:
+4. Importar el `archivo.bib` usando, en línea de comando (no en consola de rstudio), el script `academic` (ver [aquí](https://github.com/GetRD/academic-file-converter) para instalar). Debemos hacer `cd` hacia el folder base del proyecto `(lconcha@syphon:/home/lconcha/www_lanirem/lanirem)`, y ejecutamos el script:
 ```academic import --bibtex archivo.bib --overwrite --normalize```
 4. En R, hacemos `blogdown::serve_site()`. Revisamos y corregimos errores. Ya que estamos contentos, hacemos `blogdown::build_site`
 
