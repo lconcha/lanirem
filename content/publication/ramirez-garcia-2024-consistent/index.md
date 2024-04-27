@@ -1,8 +1,8 @@
 ---
 # Documentation: https://wowchemy.com/docs/managing-content/
 
-title: ' Consistent spatial lesion-symptom patterns: A comprehensive analysis using
-  triangulation in lesion-symptom mapping in a cohort of stroke patients '
+title: ' Consistent Spatial Lesion-Symptom Patterns: A Comprehensive Analysis Using
+  Triangulation in Lesion-Symptom Mapping in a Cohort of Stroke Patients '
 subtitle: ''
 summary: ''
 authors:
@@ -19,7 +19,7 @@ authors:
 tags: []
 categories: []
 date: '2024-06-01'
-lastmod: 2024-04-25T18:26:10-06:00
+lastmod: 2024-04-26T18:06:06-06:00
 featured: false
 draft: false
 
@@ -37,7 +37,7 @@ image:
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
 projects: []
-publishDate: '2024-04-26T00:26:10.571506Z'
+publishDate: '2024-04-27T00:06:06.401933Z'
 publication_types:
 - '2'
 abstract: ''

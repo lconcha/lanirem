@@ -1,8 +1,8 @@
 ---
 # Documentation: https://wowchemy.com/docs/managing-content/
 
-title: ' Discriminative functional connectivity signature of cocaine use disorder
-  links to rTMS treatment response '
+title: ' Discriminative Functional Connectivity Signature of Cocaine Use Disorder
+  Links to rTMS Treatment Response '
 subtitle: ''
 summary: ''
 authors:
@@ -18,7 +18,7 @@ authors:
 tags: []
 categories: []
 date: '2024-04-01'
-lastmod: 2024-04-25T18:26:12-06:00
+lastmod: 2024-04-26T18:06:18-06:00
 featured: false
 draft: false
 
@@ -36,7 +36,7 @@ image:
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
 projects: []
-publishDate: '2024-04-26T00:26:12.696863Z'
+publishDate: '2024-04-27T00:06:17.850920Z'
 publication_types:
 - '2'
 abstract: ''

@@ -1,7 +1,7 @@
 ---
 # Documentation: https://wowchemy.com/docs/managing-content/
 
-title: Ethical considerations of preclinical models in imaging research
+title: Ethical Considerations of Preclinical Models in Imaging Research
 subtitle: ''
 summary: ''
 authors:
@@ -15,7 +15,7 @@ authors:
 tags: []
 categories: []
 date: '2024-01-01'
-lastmod: 2024-04-25T18:26:10-06:00
+lastmod: 2024-04-26T18:05:35-06:00
 featured: false
 draft: false
 
@@ -33,7 +33,7 @@ image:
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
 projects: []
-publishDate: '2024-04-26T00:26:09.830749Z'
+publishDate: '2024-04-27T00:05:34.945991Z'
 publication_types:
 - '2'
 abstract: ''

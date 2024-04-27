@@ -1,7 +1,7 @@
 ---
 # Documentation: https://wowchemy.com/docs/managing-content/
 
-title: Atypical connectome topography and signal flow in temporal lobe epilepsy
+title: Atypical Connectome Topography and Signal Flow in Temporal Lobe Epilepsy
 subtitle: ''
 summary: ''
 authors:
@@ -29,7 +29,7 @@ authors:
 tags: []
 categories: []
 date: '2024-05-01'
-lastmod: 2024-04-25T18:26:12-06:00
+lastmod: 2024-04-26T18:06:17-06:00
 featured: false
 draft: false
 
@@ -47,7 +47,7 @@ image:
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
 projects: []
-publishDate: '2024-04-26T00:26:12.442943Z'
+publishDate: '2024-04-27T00:06:17.030936Z'
 publication_types:
 - '2'
 abstract: ''

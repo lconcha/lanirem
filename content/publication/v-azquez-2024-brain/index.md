@@ -1,8 +1,8 @@
 ---
 # Documentation: https://wowchemy.com/docs/managing-content/
 
-title: ' Brain functional connectivity of hypnosis without target suggestion. An intrinsic
-  hypnosis rs-fMRI study '
+title: ' Brain Functional Connectivity of Hypnosis without Target Suggestion. An Intrinsic
+  Hypnosis Rs-fMRI Study '
 subtitle: ''
 summary: ''
 authors:
@@ -13,7 +13,7 @@ authors:
 tags: []
 categories: []
 date: '2024-02-01'
-lastmod: 2024-04-25T18:26:12-06:00
+lastmod: 2024-04-26T18:06:14-06:00
 featured: false
 draft: false
 
@@ -31,7 +31,7 @@ image:
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
 projects: []
-publishDate: '2024-04-26T00:26:12.199365Z'
+publishDate: '2024-04-27T00:06:14.656813Z'
 publication_types:
 - '2'
 abstract: ''

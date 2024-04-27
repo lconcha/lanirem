@@ -1,8 +1,8 @@
 ---
 # Documentation: https://wowchemy.com/docs/managing-content/
 
-title: " SARS-CoV-2's brain impact: revealing cortical and cerebellar differences\
-  \ via cluster analysis in COVID-19 recovered patients "
+title: " SARS-CoV-2's Brain Impact: Revealing Cortical and Cerebellar Differences\
+  \ via Cluster Analysis in COVID-19 Recovered Patients "
 subtitle: ''
 summary: ''
 authors:
@@ -26,7 +26,7 @@ authors:
 tags: []
 categories: []
 date: '2024-03-01'
-lastmod: 2024-04-25T18:26:11-06:00
+lastmod: 2024-04-26T18:06:10-06:00
 featured: false
 draft: false
 
@@ -44,7 +44,7 @@ image:
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
 projects: []
-publishDate: '2024-04-26T00:26:11.433367Z'
+publishDate: '2024-04-27T00:06:10.677954Z'
 publication_types:
 - '2'
 abstract: ''

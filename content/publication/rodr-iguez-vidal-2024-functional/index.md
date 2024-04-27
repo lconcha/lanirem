@@ -1,8 +1,8 @@
 ---
 # Documentation: https://wowchemy.com/docs/managing-content/
 
-title: ' The functional connectivity of the human claustrum, according to the Human
-  Connectome Project database '
+title: ' The Functional Connectivity of the Human Claustrum, According to the Human
+  Connectome Project Database '
 subtitle: ''
 summary: ''
 authors:
@@ -12,7 +12,7 @@ authors:
 tags: []
 categories: []
 date: '2024-04-01'
-lastmod: 2024-04-25T18:26:11-06:00
+lastmod: 2024-04-26T18:06:07-06:00
 featured: false
 draft: false
 
@@ -30,7 +30,7 @@ image:
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
 projects: []
-publishDate: '2024-04-26T00:26:11.158856Z'
+publishDate: '2024-04-27T00:06:07.493952Z'
 publication_types:
 - '2'
 abstract: ''

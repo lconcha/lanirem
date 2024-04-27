@@ -1,21 +1,21 @@
 ---
 # Documentation: https://wowchemy.com/docs/managing-content/
 
-title: ' Functional correlates of cognitive performance and working memory in temporal
-  lobe epilepsy: Insights from task-based and resting-state fMRI '
+title: ' Functional Correlates of Cognitive Performance and Working Memory in Temporal
+  Lobe Epilepsy: Insights from Task-Based and Resting-State fMRI '
 subtitle: ''
 summary: ''
 authors:
 - Alfonso Fajardo-Valdez
 - Vicente Camacho-Téllez
 - Raúl Rodríguez-Cruces
-- María Luisa García-Gomar
+- Mar\' ́Luisa Garc\á-Gomar
 - Erick Humberto Pasaye
 - Luis Concha
 tags: []
 categories: []
 date: '2024-03-01'
-lastmod: 2024-04-25T18:26:09-06:00
+lastmod: 2024-04-26T18:05:31-06:00
 featured: false
 draft: false
 
@@ -33,7 +33,7 @@ image:
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
 projects: []
-publishDate: '2024-04-26T00:26:09.551207Z'
+publishDate: '2024-04-27T00:05:31.437989Z'
 publication_types:
 - '2'
 abstract: ''

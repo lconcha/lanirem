@@ -1,8 +1,8 @@
 ---
 # Documentation: https://wowchemy.com/docs/managing-content/
 
-title: ' Genotype-specific spinal cord damage in spinocerebellar ataxias: an ENIGMA-Ataxia
-  study '
+title: ' Genotype-Specific Spinal Cord Damage in Spinocerebellar Ataxias: An ENIGMA-Ataxia
+  Study '
 subtitle: ''
 summary: ''
 authors:
@@ -42,7 +42,7 @@ authors:
 tags: []
 categories: []
 date: '2024-02-01'
-lastmod: 2024-04-25T18:26:11-06:00
+lastmod: 2024-04-26T18:06:08-06:00
 featured: false
 draft: false
 
@@ -60,13 +60,10 @@ image:
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
 projects: []
-publishDate: '2024-04-26T00:26:10.869611Z'
+publishDate: '2024-04-27T00:06:07.771257Z'
 publication_types:
 - '2'
 abstract: ''
 publication: '*Journal of Neurology, Neurosurgery & Psychiatry*'
 doi: 10.1136/jnnp-2023-332696
-links:
-- name: URL
-  url: https://jnnp.bmj.com/content/early/2024/02/21/jnnp-2023-332696
 ---
