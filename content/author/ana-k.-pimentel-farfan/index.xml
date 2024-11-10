@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Ana K. Pimentel-Farfan | Lanirem</title>
+    <link>http://www.lanirem.inb.unam.mx/author/ana-k.-pimentel-farfan/</link>
+      <atom:link href="http://www.lanirem.inb.unam.mx/author/ana-k.-pimentel-farfan/index.xml" rel="self" type="application/rss+xml" />
+    <description>Ana K. Pimentel-Farfan</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>es-mx</language><copyright>© Lanirem</copyright><lastBuildDate>Thu, 01 Sep 2022 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>http://www.lanirem.inb.unam.mx/images/icon_hu9b45e6bcc86b764536e41ac887c9ae5d_37163_512x512_fill_lanczos_center_3.png</url>
+      <title>Ana K. Pimentel-Farfan</title>
+      <link>http://www.lanirem.inb.unam.mx/author/ana-k.-pimentel-farfan/</link>
+    </image>
+    
+    <item>
+      <title>The Central Medial Thalamic Nucleus Facilitates Bilateral Movement Execution in Rats</title>
+      <link>http://www.lanirem.inb.unam.mx/publication/luma-central-medial-thalamic-2022/</link>
+      <pubDate>Thu, 01 Sep 2022 00:00:00 +0000</pubDate>
+      <guid>http://www.lanirem.inb.unam.mx/publication/luma-central-medial-thalamic-2022/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Cortico-Striatal Circuits for Bilaterally Coordinated Movements</title>
+      <link>http://www.lanirem.inb.unam.mx/publication/pimentel-farfan-corticostriatal-circuits-bilaterally-2022/</link>
+      <pubDate>Tue, 01 Mar 2022 00:00:00 +0000</pubDate>
+      <guid>http://www.lanirem.inb.unam.mx/publication/pimentel-farfan-corticostriatal-circuits-bilaterally-2022/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Sensory representations in the striatum provide a temporal reference for learning and executing motor habits</title>
+      <link>http://www.lanirem.inb.unam.mx/publication/hidalgo-balbuena-luma-pimentel-farfan-pena-rangel-rueda-orozco-2019/</link>
+      <pubDate>Sun, 01 Sep 2019 00:00:00 +0000</pubDate>
+      <guid>http://www.lanirem.inb.unam.mx/publication/hidalgo-balbuena-luma-pimentel-farfan-pena-rangel-rueda-orozco-2019/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

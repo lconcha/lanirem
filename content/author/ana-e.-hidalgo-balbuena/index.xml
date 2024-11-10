@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Ana E. Hidalgo-Balbuena | Lanirem</title>
+    <link>http://www.lanirem.inb.unam.mx/author/ana-e.-hidalgo-balbuena/</link>
+      <atom:link href="http://www.lanirem.inb.unam.mx/author/ana-e.-hidalgo-balbuena/index.xml" rel="self" type="application/rss+xml" />
+    <description>Ana E. Hidalgo-Balbuena</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>es-mx</language><copyright>© Lanirem</copyright><lastBuildDate>Sun, 01 Sep 2019 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>http://www.lanirem.inb.unam.mx/images/icon_hu9b45e6bcc86b764536e41ac887c9ae5d_37163_512x512_fill_lanczos_center_3.png</url>
+      <title>Ana E. Hidalgo-Balbuena</title>
+      <link>http://www.lanirem.inb.unam.mx/author/ana-e.-hidalgo-balbuena/</link>
+    </image>
+    
+    <item>
+      <title>Sensory representations in the striatum provide a temporal reference for learning and executing motor habits</title>
+      <link>http://www.lanirem.inb.unam.mx/publication/hidalgo-balbuena-luma-pimentel-farfan-pena-rangel-rueda-orozco-2019/</link>
+      <pubDate>Sun, 01 Sep 2019 00:00:00 +0000</pubDate>
+      <guid>http://www.lanirem.inb.unam.mx/publication/hidalgo-balbuena-luma-pimentel-farfan-pena-rangel-rueda-orozco-2019/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

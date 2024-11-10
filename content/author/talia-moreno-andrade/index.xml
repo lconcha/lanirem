@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Talia Moreno Andrade | Lanirem</title>
+    <link>http://www.lanirem.inb.unam.mx/author/talia-moreno-andrade/</link>
+      <atom:link href="http://www.lanirem.inb.unam.mx/author/talia-moreno-andrade/index.xml" rel="self" type="application/rss+xml" />
+    <description>Talia Moreno Andrade</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>es-mx</language><copyright>© Lanirem</copyright><lastBuildDate>Fri, 01 Jan 2021 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>http://www.lanirem.inb.unam.mx/images/icon_hu9b45e6bcc86b764536e41ac887c9ae5d_37163_512x512_fill_lanczos_center_3.png</url>
+      <title>Talia Moreno Andrade</title>
+      <link>http://www.lanirem.inb.unam.mx/author/talia-moreno-andrade/</link>
+    </image>
+    
+    <item>
+      <title>Imagen del tensor de difusión de la vá corticoespinal y su asociación el pronóstico del infarto cerebral agudo: experiencia de una cohorte en México</title>
+      <link>http://www.lanirem.inb.unam.mx/publication/morenoandrade-imagen-tensor-difusion-2021/</link>
+      <pubDate>Fri, 01 Jan 2021 00:00:00 +0000</pubDate>
+      <guid>http://www.lanirem.inb.unam.mx/publication/morenoandrade-imagen-tensor-difusion-2021/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

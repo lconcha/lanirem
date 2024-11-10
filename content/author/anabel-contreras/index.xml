@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Anabel Contreras | Lanirem</title>
+    <link>http://www.lanirem.inb.unam.mx/author/anabel-contreras/</link>
+      <atom:link href="http://www.lanirem.inb.unam.mx/author/anabel-contreras/index.xml" rel="self" type="application/rss+xml" />
+    <description>Anabel Contreras</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>es-mx</language><copyright>© Lanirem</copyright><lastBuildDate>Sun, 01 Nov 2020 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>http://www.lanirem.inb.unam.mx/images/icon_hu9b45e6bcc86b764536e41ac887c9ae5d_37163_512x512_fill_lanczos_center_3.png</url>
+      <title>Anabel Contreras</title>
+      <link>http://www.lanirem.inb.unam.mx/author/anabel-contreras/</link>
+    </image>
+    
+    <item>
+      <title>Longitudinal Analysis of the Relation Between Clinical Impairment and Gray Matter Degeneration in Spinocerebellar Ataxia Type 7 Patients</title>
+      <link>http://www.lanirem.inb.unam.mx/publication/contreras-ramirez-garcia-chirino-morgado-valle-pasaye-hernandez-castillo-diaz-fernandez-ruiz-beltran-parrazal-2020/</link>
+      <pubDate>Sun, 01 Nov 2020 00:00:00 +0000</pubDate>
+      <guid>http://www.lanirem.inb.unam.mx/publication/contreras-ramirez-garcia-chirino-morgado-valle-pasaye-hernandez-castillo-diaz-fernandez-ruiz-beltran-parrazal-2020/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

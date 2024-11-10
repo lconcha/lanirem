@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Julieta Mateos | Lanirem</title>
+    <link>http://www.lanirem.inb.unam.mx/author/julieta-mateos/</link>
+      <atom:link href="http://www.lanirem.inb.unam.mx/author/julieta-mateos/index.xml" rel="self" type="application/rss+xml" />
+    <description>Julieta Mateos</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>es-mx</language><copyright>© Lanirem</copyright><lastBuildDate>Thu, 01 Jul 2021 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>http://www.lanirem.inb.unam.mx/images/icon_hu9b45e6bcc86b764536e41ac887c9ae5d_37163_512x512_fill_lanczos_center_3.png</url>
+      <title>Julieta Mateos</title>
+      <link>http://www.lanirem.inb.unam.mx/author/julieta-mateos/</link>
+    </image>
+    
+    <item>
+      <title>Cortical Thickness Estimation: A Comparison of FreeSurfer and Three Voxel-Based Methods in a Test-Retest Analysis and a Clinical Application</title>
+      <link>http://www.lanirem.inb.unam.mx/publication/velazquez-cortical-thickness-estimation-2021/</link>
+      <pubDate>Thu, 01 Jul 2021 00:00:00 +0000</pubDate>
+      <guid>http://www.lanirem.inb.unam.mx/publication/velazquez-cortical-thickness-estimation-2021/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Gema Martínez-Cabrera | Lanirem</title>
+    <link>http://www.lanirem.inb.unam.mx/author/gema-martinez-cabrera/</link>
+      <atom:link href="http://www.lanirem.inb.unam.mx/author/gema-martinez-cabrera/index.xml" rel="self" type="application/rss+xml" />
+    <description>Gema Martínez-Cabrera</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>es-mx</language><copyright>© Lanirem</copyright><lastBuildDate>Sun, 01 Jan 2023 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>http://www.lanirem.inb.unam.mx/images/icon_hu9b45e6bcc86b764536e41ac887c9ae5d_37163_512x512_fill_lanczos_center_3.png</url>
+      <title>Gema Martínez-Cabrera</title>
+      <link>http://www.lanirem.inb.unam.mx/author/gema-martinez-cabrera/</link>
+    </image>
+    
+    <item>
+      <title>The Neurovascular Unit of Capillary Blood Vessels in the Rat Nervous System. A Rapid-Golgi Electron Microscopy Study</title>
+      <link>http://www.lanirem.inb.unam.mx/publication/larriva-sahd-neurovascular-unit-capillary-2023/</link>
+      <pubDate>Sun, 01 Jan 2023 00:00:00 +0000</pubDate>
+      <guid>http://www.lanirem.inb.unam.mx/publication/larriva-sahd-neurovascular-unit-capillary-2023/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

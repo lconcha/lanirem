@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Said Jiménez | Lanirem</title>
+    <link>http://www.lanirem.inb.unam.mx/author/said-jimenez/</link>
+      <atom:link href="http://www.lanirem.inb.unam.mx/author/said-jimenez/index.xml" rel="self" type="application/rss+xml" />
+    <description>Said Jiménez</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>es-mx</language><copyright>© Lanirem</copyright><lastBuildDate>Sat, 01 Jul 2023 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>http://www.lanirem.inb.unam.mx/images/icon_hu9b45e6bcc86b764536e41ac887c9ae5d_37163_512x512_fill_lanczos_center_3.png</url>
+      <title>Said Jiménez</title>
+      <link>http://www.lanirem.inb.unam.mx/author/said-jimenez/</link>
+    </image>
+    
+    <item>
+      <title>Modeling Vulnerability and Intervention Targets in the Borderline Personality Disorder System: A Network Analysis of in Silico and in Vivo Interventions</title>
+      <link>http://www.lanirem.inb.unam.mx/publication/jimenez-modeling-vulnerability-intervention-2023/</link>
+      <pubDate>Sat, 01 Jul 2023 00:00:00 +0000</pubDate>
+      <guid>http://www.lanirem.inb.unam.mx/publication/jimenez-modeling-vulnerability-intervention-2023/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Social Closeness Modulates Brain Dynamics during Trust Anticipation</title>
+      <link>http://www.lanirem.inb.unam.mx/publication/jimenez-social-closeness-modulates-2022/</link>
+      <pubDate>Thu, 01 Sep 2022 00:00:00 +0000</pubDate>
+      <guid>http://www.lanirem.inb.unam.mx/publication/jimenez-social-closeness-modulates-2022/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Machine Learning Detects Predictors of Symptom Severity and Impulsivity after Dialectical Behavior Therapy Skills Training Group in Borderline Personality Disorder</title>
+      <link>http://www.lanirem.inb.unam.mx/publication/jimenez-machine-learning-detects-2022/</link>
+      <pubDate>Fri, 01 Jul 2022 00:00:00 +0000</pubDate>
+      <guid>http://www.lanirem.inb.unam.mx/publication/jimenez-machine-learning-detects-2022/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Identifying cognitive deficits in cocaine dependence using standard tests and machine learning</title>
+      <link>http://www.lanirem.inb.unam.mx/publication/jimenez-angeles-valdez-villicana-reyes-zamorano-alcala-lozano-gonzalez-olvera-garza-villarreal-2019/</link>
+      <pubDate>Sun, 01 Dec 2019 00:00:00 +0000</pubDate>
+      <guid>http://www.lanirem.inb.unam.mx/publication/jimenez-angeles-valdez-villicana-reyes-zamorano-alcala-lozano-gonzalez-olvera-garza-villarreal-2019/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

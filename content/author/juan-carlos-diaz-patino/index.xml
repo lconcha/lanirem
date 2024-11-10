@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Juan Carlos Díaz-Patiño | Lanirem</title>
+    <link>http://www.lanirem.inb.unam.mx/author/juan-carlos-diaz-patino/</link>
+      <atom:link href="http://www.lanirem.inb.unam.mx/author/juan-carlos-diaz-patino/index.xml" rel="self" type="application/rss+xml" />
+    <description>Juan Carlos Díaz-Patiño</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>es-mx</language><copyright>© Lanirem</copyright><lastBuildDate>Wed, 01 Feb 2023 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>http://www.lanirem.inb.unam.mx/images/icon_hu9b45e6bcc86b764536e41ac887c9ae5d_37163_512x512_fill_lanczos_center_3.png</url>
+      <title>Juan Carlos Díaz-Patiño</title>
+      <link>http://www.lanirem.inb.unam.mx/author/juan-carlos-diaz-patino/</link>
+    </image>
+    
+    <item>
+      <title>Development of the Functional Connectome Topology in Adolescence: Evidence from Topological Data Analysis</title>
+      <link>http://www.lanirem.inb.unam.mx/publication/gracia-tabuenca-development-functional-connectome-2023/</link>
+      <pubDate>Wed, 01 Feb 2023 00:00:00 +0000</pubDate>
+      <guid>http://www.lanirem.inb.unam.mx/publication/gracia-tabuenca-development-functional-connectome-2023/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Topological Data Analysis Reveals Robust Alterations in the Whole-Brain and Frontal Lobe Functional Connectomes in Attention-Deficit/Hyperactivity Disorder</title>
+      <link>http://www.lanirem.inb.unam.mx/publication/gracia-tabuenca-diaz-patino-arelio-alcauter-2020/</link>
+      <pubDate>Mon, 01 Jun 2020 00:00:00 +0000</pubDate>
+      <guid>http://www.lanirem.inb.unam.mx/publication/gracia-tabuenca-diaz-patino-arelio-alcauter-2020/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

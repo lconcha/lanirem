@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Larry J. Young | Lanirem</title>
+    <link>http://www.lanirem.inb.unam.mx/author/larry-j.-young/</link>
+      <atom:link href="http://www.lanirem.inb.unam.mx/author/larry-j.-young/index.xml" rel="self" type="application/rss+xml" />
+    <description>Larry J. Young</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>es-mx</language><copyright>© Lanirem</copyright><lastBuildDate>Mon, 01 Jan 2018 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>http://www.lanirem.inb.unam.mx/images/icon_hu9b45e6bcc86b764536e41ac887c9ae5d_37163_512x512_fill_lanczos_center_3.png</url>
+      <title>Larry J. Young</title>
+      <link>http://www.lanirem.inb.unam.mx/author/larry-j.-young/</link>
+    </image>
+    
+    <item>
+      <title>Resting state brain networks in the prairie vole</title>
+      <link>http://www.lanirem.inb.unam.mx/publication/ortiz-portillo-paredes-young-alcauter-2018/</link>
+      <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
+      <guid>http://www.lanirem.inb.unam.mx/publication/ortiz-portillo-paredes-young-alcauter-2018/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

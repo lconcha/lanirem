@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Juan A. Ben\t́ez-López | Lanirem</title>
+    <link>http://www.lanirem.inb.unam.mx/author/juan-a.-ben%5Ctez-lopez/</link>
+      <atom:link href="http://www.lanirem.inb.unam.mx/author/juan-a.-ben%5Ctez-lopez/index.xml" rel="self" type="application/rss+xml" />
+    <description>Juan A. Ben\t́ez-López</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>es-mx</language><copyright>© Lanirem</copyright><lastBuildDate>Sat, 01 Jan 2022 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>http://www.lanirem.inb.unam.mx/images/icon_hu9b45e6bcc86b764536e41ac887c9ae5d_37163_512x512_fill_lanczos_center_3.png</url>
+      <title>Juan A. Ben\t́ez-López</title>
+      <link>http://www.lanirem.inb.unam.mx/author/juan-a.-ben%5Ctez-lopez/</link>
+    </image>
+    
+    <item>
+      <title>Medición Cuantitativa de ADC En Resonancia Magnética Multiparamétrica de Próstata y Correlación Con Escala de Gleason En Pacientes Con Sospecha de Cáncer Prostático</title>
+      <link>http://www.lanirem.inb.unam.mx/publication/martinez-resendiz-medicion-cuantitativa-adc-2022/</link>
+      <pubDate>Sat, 01 Jan 2022 00:00:00 +0000</pubDate>
+      <guid>http://www.lanirem.inb.unam.mx/publication/martinez-resendiz-medicion-cuantitativa-adc-2022/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

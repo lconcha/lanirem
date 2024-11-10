@@ -2,7 +2,7 @@
 # Documentation: https://wowchemy.com/docs/managing-content/
 
 title: ' Paternal Prenatal and Lactation Exposure to a High-Calorie Diet Shapes Transgenerational
-  Brain Macro- and Microstructure Defects, Impacting Anxiety-Like Behavior in Male
+  Brain Macro-and Microstructure Defects, Impacting Anxiety-Like Behavior in Male
   Offspring Rats '
 subtitle: ''
 summary: ''
@@ -14,8 +14,8 @@ authors:
 - Alberto Camacho-Morales
 tags: []
 categories: []
-date: '2024-02-01'
-lastmod: 2024-04-26T18:06:14-06:00
+date: '2024-01-01'
+lastmod: 2024-11-09T13:28:16-06:00
 featured: false
 draft: false
 
@@ -33,10 +33,9 @@ image:
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
 projects: []
-publishDate: '2024-04-27T00:06:14.104586Z'
+publishDate: '2024-11-09T19:28:15.982937Z'
 publication_types:
 - '2'
 abstract: ''
-publication: '*eNeuro*'
-doi: 10.1523/ENEURO.0194-23.2023
+publication: '*eneuro*'
 ---

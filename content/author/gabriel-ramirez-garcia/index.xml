@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Gabriel Ramirez-Garcia | Lanirem</title>
+    <link>http://www.lanirem.inb.unam.mx/author/gabriel-ramirez-garcia/</link>
+      <atom:link href="http://www.lanirem.inb.unam.mx/author/gabriel-ramirez-garcia/index.xml" rel="self" type="application/rss+xml" />
+    <description>Gabriel Ramirez-Garcia</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>es-mx</language><copyright>© Lanirem</copyright><lastBuildDate>Thu, 01 Jul 2021 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>http://www.lanirem.inb.unam.mx/images/icon_hu9b45e6bcc86b764536e41ac887c9ae5d_37163_512x512_fill_lanczos_center_3.png</url>
+      <title>Gabriel Ramirez-Garcia</title>
+      <link>http://www.lanirem.inb.unam.mx/author/gabriel-ramirez-garcia/</link>
+    </image>
+    
+    <item>
+      <title>Cognitive Impairments in Spinocerebellar Ataxia Type 10 and Their Relation to Cortical Thickness</title>
+      <link>http://www.lanirem.inb.unam.mx/publication/chirino-perez-cognitive-impairments-spinocerebellar-2021/</link>
+      <pubDate>Thu, 01 Jul 2021 00:00:00 +0000</pubDate>
+      <guid>http://www.lanirem.inb.unam.mx/publication/chirino-perez-cognitive-impairments-spinocerebellar-2021/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Mapping the Cerebellar Cognitive Affective Syndrome in Patients with Chronic Cerebellar Strokes</title>
+      <link>http://www.lanirem.inb.unam.mx/publication/chirino-perez-mapping-cerebellar-cognitive-2021/</link>
+      <pubDate>Tue, 01 Jun 2021 00:00:00 +0000</pubDate>
+      <guid>http://www.lanirem.inb.unam.mx/publication/chirino-perez-mapping-cerebellar-cognitive-2021/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Planning Deficits in Huntington&#39;s Disease: A Brain Structural Correlation by Voxel-Based Morphometry</title>
+      <link>http://www.lanirem.inb.unam.mx/publication/calderon-villalon-planning-deficits-huntington-2021/</link>
+      <pubDate>Mon, 01 Mar 2021 00:00:00 +0000</pubDate>
+      <guid>http://www.lanirem.inb.unam.mx/publication/calderon-villalon-planning-deficits-huntington-2021/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Longitudinal Analysis of the Relation Between Clinical Impairment and Gray Matter Degeneration in Spinocerebellar Ataxia Type 7 Patients</title>
+      <link>http://www.lanirem.inb.unam.mx/publication/contreras-ramirez-garcia-chirino-morgado-valle-pasaye-hernandez-castillo-diaz-fernandez-ruiz-beltran-parrazal-2020/</link>
+      <pubDate>Sun, 01 Nov 2020 00:00:00 +0000</pubDate>
+      <guid>http://www.lanirem.inb.unam.mx/publication/contreras-ramirez-garcia-chirino-morgado-valle-pasaye-hernandez-castillo-diaz-fernandez-ruiz-beltran-parrazal-2020/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

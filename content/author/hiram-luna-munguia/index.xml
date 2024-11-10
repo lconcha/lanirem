@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Hiram Luna-Munguia | Lanirem</title>
+    <link>http://www.lanirem.inb.unam.mx/author/hiram-luna-munguia/</link>
+      <atom:link href="http://www.lanirem.inb.unam.mx/author/hiram-luna-munguia/index.xml" rel="self" type="application/rss+xml" />
+    <description>Hiram Luna-Munguia</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>es-mx</language><copyright>© Lanirem</copyright><lastBuildDate>Mon, 01 Feb 2021 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>http://www.lanirem.inb.unam.mx/images/icon_hu9b45e6bcc86b764536e41ac887c9ae5d_37163_512x512_fill_lanczos_center_3.png</url>
+      <title>Hiram Luna-Munguia</title>
+      <link>http://www.lanirem.inb.unam.mx/author/hiram-luna-munguia/</link>
+    </image>
+    
+    <item>
+      <title>Longitudinal Changes in Gray and White Matter Microstructure during Epileptogenesis in Pilocarpine-Induced Epileptic Rats</title>
+      <link>http://www.lanirem.inb.unam.mx/publication/luna-munguia-longitudinal-changes-gray-2021/</link>
+      <pubDate>Mon, 01 Feb 2021 00:00:00 +0000</pubDate>
+      <guid>http://www.lanirem.inb.unam.mx/publication/luna-munguia-longitudinal-changes-gray-2021/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Memory deficits in Sprague Dawley rats with spontaneous ventriculomegaly</title>
+      <link>http://www.lanirem.inb.unam.mx/publication/luna-munguia-gasca-martinez-marquez-bravo-concha-2020/</link>
+      <pubDate>Mon, 01 Jun 2020 00:00:00 +0000</pubDate>
+      <guid>http://www.lanirem.inb.unam.mx/publication/luna-munguia-gasca-martinez-marquez-bravo-concha-2020/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Insights into Potential Targets for Therapeutic Intervention in Epilepsy</title>
+      <link>http://www.lanirem.inb.unam.mx/publication/zavala-tecuapetla-cuellar-herrera-luna-munguia-2020/</link>
+      <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
+      <guid>http://www.lanirem.inb.unam.mx/publication/zavala-tecuapetla-cuellar-herrera-luna-munguia-2020/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

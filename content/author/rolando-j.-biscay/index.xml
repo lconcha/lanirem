@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Rolando J. Biscay | Lanirem</title>
+    <link>http://www.lanirem.inb.unam.mx/author/rolando-j.-biscay/</link>
+      <atom:link href="http://www.lanirem.inb.unam.mx/author/rolando-j.-biscay/index.xml" rel="self" type="application/rss+xml" />
+    <description>Rolando J. Biscay</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>es-mx</language><copyright>© Lanirem</copyright><lastBuildDate>Sun, 01 May 2022 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>http://www.lanirem.inb.unam.mx/images/icon_hu9b45e6bcc86b764536e41ac887c9ae5d_37163_512x512_fill_lanczos_center_3.png</url>
+      <title>Rolando J. Biscay</title>
+      <link>http://www.lanirem.inb.unam.mx/author/rolando-j.-biscay/</link>
+    </image>
+    
+    <item>
+      <title>EEG Effective Connectivity during the First Year of Life Mirrors Brain Synaptogenesis, Myelination, and Early Right Hemisphere Predominance</title>
+      <link>http://www.lanirem.inb.unam.mx/publication/bosch-bayard-eeg-effective-connectivity-2022-a/</link>
+      <pubDate>Sun, 01 May 2022 00:00:00 +0000</pubDate>
+      <guid>http://www.lanirem.inb.unam.mx/publication/bosch-bayard-eeg-effective-connectivity-2022-a/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>EEG Effective Connectivity during the First Year of Life Mirrors Brain Synaptogenesis, Myelination, and Early Right Hemisphere Predominance</title>
+      <link>http://www.lanirem.inb.unam.mx/publication/bosch-bayard-eeg-effective-connectivity-2022/</link>
+      <pubDate>Sun, 01 May 2022 00:00:00 +0000</pubDate>
+      <guid>http://www.lanirem.inb.unam.mx/publication/bosch-bayard-eeg-effective-connectivity-2022/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

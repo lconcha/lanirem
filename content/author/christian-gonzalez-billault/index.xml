@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Christian Gonzalez-Billault | Lanirem</title>
+    <link>http://www.lanirem.inb.unam.mx/author/christian-gonzalez-billault/</link>
+      <atom:link href="http://www.lanirem.inb.unam.mx/author/christian-gonzalez-billault/index.xml" rel="self" type="application/rss+xml" />
+    <description>Christian Gonzalez-Billault</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>es-mx</language><copyright>© Lanirem</copyright><lastBuildDate>Sat, 01 Jan 2022 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>http://www.lanirem.inb.unam.mx/images/icon_hu9b45e6bcc86b764536e41ac887c9ae5d_37163_512x512_fill_lanczos_center_3.png</url>
+      <title>Christian Gonzalez-Billault</title>
+      <link>http://www.lanirem.inb.unam.mx/author/christian-gonzalez-billault/</link>
+    </image>
+    
+    <item>
+      <title>Life-Long Arsenic Exposure Damages the Microstructure of the Rat Hippocampus</title>
+      <link>http://www.lanirem.inb.unam.mx/publication/nino-lifelong-arsenic-exposure-2022-a/</link>
+      <pubDate>Sat, 01 Jan 2022 00:00:00 +0000</pubDate>
+      <guid>http://www.lanirem.inb.unam.mx/publication/nino-lifelong-arsenic-exposure-2022-a/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

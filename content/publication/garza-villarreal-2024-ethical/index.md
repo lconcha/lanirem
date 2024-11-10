@@ -14,8 +14,8 @@ authors:
 - Andrew D. Scott
 tags: []
 categories: []
-date: '2024-01-01'
-lastmod: 2024-04-26T18:05:35-06:00
+date: '2024-03-01'
+lastmod: 2024-11-09T13:28:26-06:00
 featured: false
 draft: false
 
@@ -33,7 +33,7 @@ image:
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
 projects: []
-publishDate: '2024-04-27T00:05:34.945991Z'
+publishDate: '2024-11-09T19:28:25.866922Z'
 publication_types:
 - '2'
 abstract: ''

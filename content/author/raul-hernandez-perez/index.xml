@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Raúl Hernández-Pérez | Lanirem</title>
+    <link>http://www.lanirem.inb.unam.mx/author/raul-hernandez-perez/</link>
+      <atom:link href="http://www.lanirem.inb.unam.mx/author/raul-hernandez-perez/index.xml" rel="self" type="application/rss+xml" />
+    <description>Raúl Hernández-Pérez</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>es-mx</language><copyright>© Lanirem</copyright><lastBuildDate>Sat, 01 Jan 2022 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>http://www.lanirem.inb.unam.mx/images/icon_hu9b45e6bcc86b764536e41ac887c9ae5d_37163_512x512_fill_lanczos_center_3.png</url>
+      <title>Raúl Hernández-Pérez</title>
+      <link>http://www.lanirem.inb.unam.mx/author/raul-hernandez-perez/</link>
+    </image>
+    
+    <item>
+      <title>Personality Traits Induce Different Brain Patterns When Processing Social and Valence Information</title>
+      <link>http://www.lanirem.inb.unam.mx/publication/hevia-orozco-personality-traits-induce-2022/</link>
+      <pubDate>Sat, 01 Jan 2022 00:00:00 +0000</pubDate>
+      <guid>http://www.lanirem.inb.unam.mx/publication/hevia-orozco-personality-traits-induce-2022/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Decoding human emotional faces in the dog’s brain</title>
+      <link>http://www.lanirem.inb.unam.mx/publication/hernandez-perez-cuaya-retana-concha-2018/</link>
+      <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
+      <guid>http://www.lanirem.inb.unam.mx/publication/hernandez-perez-cuaya-retana-concha-2018/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Tactile object categories can be decoded from the parietal and lateral-occipital cortices</title>
+      <link>http://www.lanirem.inb.unam.mx/publication/hernandez-perez-cuaya-rojas-hortelano-reyes-aguilar-concha-de-lafuente-2017/</link>
+      <pubDate>Thu, 01 Jun 2017 00:00:00 +0000</pubDate>
+      <guid>http://www.lanirem.inb.unam.mx/publication/hernandez-perez-cuaya-rojas-hortelano-reyes-aguilar-concha-de-lafuente-2017/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Leo Bayliss | Lanirem</title>
+    <link>http://www.lanirem.inb.unam.mx/author/leo-bayliss/</link>
+      <atom:link href="http://www.lanirem.inb.unam.mx/author/leo-bayliss/index.xml" rel="self" type="application/rss+xml" />
+    <description>Leo Bayliss</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>es-mx</language><copyright>© Lanirem</copyright><lastBuildDate>Wed, 01 Jan 2020 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>http://www.lanirem.inb.unam.mx/images/icon_hu9b45e6bcc86b764536e41ac887c9ae5d_37163_512x512_fill_lanczos_center_3.png</url>
+      <title>Leo Bayliss</title>
+      <link>http://www.lanirem.inb.unam.mx/author/leo-bayliss/</link>
+    </image>
+    
+    <item>
+      <title>Longitudinal atrophy characterization of cortical and subcortical gray matter in Huntington’s disease patients</title>
+      <link>http://www.lanirem.inb.unam.mx/publication/ramirez-garcia-galvez-diaz-bayliss-fernandez-ruiz-campos-romo-2020/</link>
+      <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
+      <guid>http://www.lanirem.inb.unam.mx/publication/ramirez-garcia-galvez-diaz-bayliss-fernandez-ruiz-campos-romo-2020/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

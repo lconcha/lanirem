@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Karyna Yc | Lanirem</title>
+    <link>http://www.lanirem.inb.unam.mx/author/karyna-yc/</link>
+      <atom:link href="http://www.lanirem.inb.unam.mx/author/karyna-yc/index.xml" rel="self" type="application/rss+xml" />
+    <description>Karyna Yc</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>es-mx</language><copyright>© Lanirem</copyright><lastBuildDate>Sat, 01 Dec 2018 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>http://www.lanirem.inb.unam.mx/images/icon_hu9b45e6bcc86b764536e41ac887c9ae5d_37163_512x512_fill_lanczos_center_3.png</url>
+      <title>Karyna Yc</title>
+      <link>http://www.lanirem.inb.unam.mx/author/karyna-yc/</link>
+    </image>
+    
+    <item>
+      <title>The scalar property during isochronous tapping is disrupted by a D2-like agonist in the nonhuman primate</title>
+      <link>http://www.lanirem.inb.unam.mx/publication/yc-prado-merchant-2018/</link>
+      <pubDate>Sat, 01 Dec 2018 00:00:00 +0000</pubDate>
+      <guid>http://www.lanirem.inb.unam.mx/publication/yc-prado-merchant-2018/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Predictive rhythmic tapping to isochronous and tempo changing metronomes in the nonhuman primate</title>
+      <link>http://www.lanirem.inb.unam.mx/publication/gamez-yc-ayala-dotov-prado-merchant-2018/</link>
+      <pubDate>Sun, 01 Jul 2018 00:00:00 +0000</pubDate>
+      <guid>http://www.lanirem.inb.unam.mx/publication/gamez-yc-ayala-dotov-prado-merchant-2018/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

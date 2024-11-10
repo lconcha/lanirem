@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Sergio M. Sánchez-Moguel | Lanirem</title>
+    <link>http://www.lanirem.inb.unam.mx/author/sergio-m.-sanchez-moguel/</link>
+      <atom:link href="http://www.lanirem.inb.unam.mx/author/sergio-m.-sanchez-moguel/index.xml" rel="self" type="application/rss+xml" />
+    <description>Sergio M. Sánchez-Moguel</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>es-mx</language><copyright>© Lanirem</copyright><lastBuildDate>Fri, 01 Jul 2022 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>http://www.lanirem.inb.unam.mx/images/icon_hu9b45e6bcc86b764536e41ac887c9ae5d_37163_512x512_fill_lanczos_center_3.png</url>
+      <title>Sergio M. Sánchez-Moguel</title>
+      <link>http://www.lanirem.inb.unam.mx/author/sergio-m.-sanchez-moguel/</link>
+    </image>
+    
+    <item>
+      <title>Abnormal EEG Signal Energy in the Elderly: A Wavelet Analysis of Event-Related Potentials during a Stroop Task</title>
+      <link>http://www.lanirem.inb.unam.mx/publication/sanchez-moguel-abnormal-eeg-signal-2022/</link>
+      <pubDate>Fri, 01 Jul 2022 00:00:00 +0000</pubDate>
+      <guid>http://www.lanirem.inb.unam.mx/publication/sanchez-moguel-abnormal-eeg-signal-2022/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>One-Year Follow-Up of Healthy Older Adults with Electroencephalographic Risk for Neurocognitive Disorder After Neurofeedback Training</title>
+      <link>http://www.lanirem.inb.unam.mx/publication/alatorre-cruz-one-year-follow-up-healthy-2022/</link>
+      <pubDate>Sat, 01 Jan 2022 00:00:00 +0000</pubDate>
+      <guid>http://www.lanirem.inb.unam.mx/publication/alatorre-cruz-one-year-follow-up-healthy-2022/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

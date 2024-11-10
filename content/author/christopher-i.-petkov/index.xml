@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Christopher I. Petkov | Lanirem</title>
+    <link>http://www.lanirem.inb.unam.mx/author/christopher-i.-petkov/</link>
+      <atom:link href="http://www.lanirem.inb.unam.mx/author/christopher-i.-petkov/index.xml" rel="self" type="application/rss+xml" />
+    <description>Christopher I. Petkov</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>es-mx</language><copyright>© Lanirem</copyright><lastBuildDate>Sun, 01 Jan 2023 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>http://www.lanirem.inb.unam.mx/images/icon_hu9b45e6bcc86b764536e41ac887c9ae5d_37163_512x512_fill_lanczos_center_3.png</url>
+      <title>Christopher I. Petkov</title>
+      <link>http://www.lanirem.inb.unam.mx/author/christopher-i.-petkov/</link>
+    </image>
+    
+    <item>
+      <title>A Framework and Resource for Global Collaboration in Non-Human Primate Neuroscience</title>
+      <link>http://www.lanirem.inb.unam.mx/publication/hartig-framework-resource-global-2023/</link>
+      <pubDate>Sun, 01 Jan 2023 00:00:00 +0000</pubDate>
+      <guid>http://www.lanirem.inb.unam.mx/publication/hartig-framework-resource-global-2023/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

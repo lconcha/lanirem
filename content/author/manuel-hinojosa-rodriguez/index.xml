@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Manuel Hinojosa-Rodríguez | Lanirem</title>
+    <link>http://www.lanirem.inb.unam.mx/author/manuel-hinojosa-rodriguez/</link>
+      <atom:link href="http://www.lanirem.inb.unam.mx/author/manuel-hinojosa-rodriguez/index.xml" rel="self" type="application/rss+xml" />
+    <description>Manuel Hinojosa-Rodríguez</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>es-mx</language><copyright>© Lanirem</copyright><lastBuildDate>Sun, 01 Nov 2020 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>http://www.lanirem.inb.unam.mx/images/icon_hu9b45e6bcc86b764536e41ac887c9ae5d_37163_512x512_fill_lanczos_center_3.png</url>
+      <title>Manuel Hinojosa-Rodríguez</title>
+      <link>http://www.lanirem.inb.unam.mx/author/manuel-hinojosa-rodriguez/</link>
+    </image>
+    
+    <item>
+      <title>Long-term therapeutic effects of Katona therapy in moderate-to-severe perinatal brain damage</title>
+      <link>http://www.lanirem.inb.unam.mx/publication/hinojosa-rodriguez-jimenez-colin-moreira-bautista-harmony-2020/</link>
+      <pubDate>Sun, 01 Nov 2020 00:00:00 +0000</pubDate>
+      <guid>http://www.lanirem.inb.unam.mx/publication/hinojosa-rodriguez-jimenez-colin-moreira-bautista-harmony-2020/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

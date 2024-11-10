@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Luisa Rocha | Lanirem</title>
+    <link>http://www.lanirem.inb.unam.mx/author/luisa-rocha/</link>
+      <atom:link href="http://www.lanirem.inb.unam.mx/author/luisa-rocha/index.xml" rel="self" type="application/rss+xml" />
+    <description>Luisa Rocha</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>es-mx</language><copyright>© Lanirem</copyright><lastBuildDate>Fri, 01 Jan 2021 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>http://www.lanirem.inb.unam.mx/images/icon_hu9b45e6bcc86b764536e41ac887c9ae5d_37163_512x512_fill_lanczos_center_3.png</url>
+      <title>Luisa Rocha</title>
+      <link>http://www.lanirem.inb.unam.mx/author/luisa-rocha/</link>
+    </image>
+    
+    <item>
+      <title>Propylparaben Reduces the Long-Term Consequences in Hippocampus Induced by Traumatic Brain Injury in Rats: Its Implications as Therapeutic Strategy to Prevent Neurodegenerative Diseases</title>
+      <link>http://www.lanirem.inb.unam.mx/publication/santiago-castaneda-propylparaben-reduces-long-term-2021/</link>
+      <pubDate>Fri, 01 Jan 2021 00:00:00 +0000</pubDate>
+      <guid>http://www.lanirem.inb.unam.mx/publication/santiago-castaneda-propylparaben-reduces-long-term-2021/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Neuroprotective effects of propylparaben on the long-term consequences of severe traumatic brain injury in rats</title>
+      <link>http://www.lanirem.inb.unam.mx/publication/santiago-castaneda-segovia-oropeza-concha-orozco-suarez-rocha-2020/</link>
+      <pubDate>Thu, 01 Oct 2020 00:00:00 +0000</pubDate>
+      <guid>http://www.lanirem.inb.unam.mx/publication/santiago-castaneda-segovia-oropeza-concha-orozco-suarez-rocha-2020/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Sodium cromoglycate decreases sensorimotor impairment and hippocampal alterations induced by severe traumatic brain injury in rats</title>
+      <link>http://www.lanirem.inb.unam.mx/publication/segovia-oropeza-santiago-castaneda-orozco-suarez-concha-rocha-2020/</link>
+      <pubDate>Mon, 01 Jun 2020 00:00:00 +0000</pubDate>
+      <guid>http://www.lanirem.inb.unam.mx/publication/segovia-oropeza-santiago-castaneda-orozco-suarez-concha-rocha-2020/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

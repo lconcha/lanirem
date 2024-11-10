@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Martin Domin | Lanirem</title>
+    <link>http://www.lanirem.inb.unam.mx/author/martin-domin/</link>
+      <atom:link href="http://www.lanirem.inb.unam.mx/author/martin-domin/index.xml" rel="self" type="application/rss+xml" />
+    <description>Martin Domin</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>es-mx</language><copyright>© Lanirem</copyright><lastBuildDate>Mon, 01 Aug 2022 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>http://www.lanirem.inb.unam.mx/images/icon_hu9b45e6bcc86b764536e41ac887c9ae5d_37163_512x512_fill_lanczos_center_3.png</url>
+      <title>Martin Domin</title>
+      <link>http://www.lanirem.inb.unam.mx/author/martin-domin/</link>
+    </image>
+    
+    <item>
+      <title>Event-Based Modeling in Temporal Lobe Epilepsy Demonstrates Progressive Atrophy from Cross-Sectional Data</title>
+      <link>http://www.lanirem.inb.unam.mx/publication/lopez-eventbased-modeling-temporal-2022/</link>
+      <pubDate>Mon, 01 Aug 2022 00:00:00 +0000</pubDate>
+      <guid>http://www.lanirem.inb.unam.mx/publication/lopez-eventbased-modeling-temporal-2022/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Structural Network Alterations in Focal and Generalized Epilepsy Assessed in a Worldwide ENIGMA Study Follow Axes of Epilepsy Risk Gene Expression</title>
+      <link>http://www.lanirem.inb.unam.mx/publication/lariviere-structural-network-alterations-2022/</link>
+      <pubDate>Fri, 01 Jul 2022 00:00:00 +0000</pubDate>
+      <guid>http://www.lanirem.inb.unam.mx/publication/lariviere-structural-network-alterations-2022/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>A Systems-Level Analysis Highlights Microglial Activation as a Modifying Factor in Common Epilepsies</title>
+      <link>http://www.lanirem.inb.unam.mx/publication/altmann-systemslevel-analysis-highlights-2021/</link>
+      <pubDate>Sun, 01 Aug 2021 00:00:00 +0000</pubDate>
+      <guid>http://www.lanirem.inb.unam.mx/publication/altmann-systemslevel-analysis-highlights-2021/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Artificial Intelligence for Classification of Temporal Lobe Epilepsy with ROI-Level MRI Data: A Worldwide ENIGMA-Epilepsy Study</title>
+      <link>http://www.lanirem.inb.unam.mx/publication/gleichgerrcht-artificial-intelligence-classification-2021-a/</link>
+      <pubDate>Fri, 01 Jan 2021 00:00:00 +0000</pubDate>
+      <guid>http://www.lanirem.inb.unam.mx/publication/gleichgerrcht-artificial-intelligence-classification-2021-a/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

@@ -16,7 +16,7 @@ authors:
 tags: []
 categories: []
 date: '2024-01-01'
-lastmod: 2024-04-26T18:06:11-06:00
+lastmod: 2024-11-09T13:28:14-06:00
 featured: false
 draft: false
 
@@ -34,10 +34,9 @@ image:
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
 projects: []
-publishDate: '2024-04-27T00:06:11.203888Z'
+publishDate: '2024-11-09T19:28:14.647652Z'
 publication_types:
 - '2'
 abstract: ''
 publication: '*Progress in Neuro-Psychopharmacology and Biological Psychiatry*'
-doi: 10.1016/j.pnpbp.2023.110862
 ---

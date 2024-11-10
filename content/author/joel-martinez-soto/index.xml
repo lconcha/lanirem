@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Joel Martínez-Soto | Lanirem</title>
+    <link>http://www.lanirem.inb.unam.mx/author/joel-martinez-soto/</link>
+      <atom:link href="http://www.lanirem.inb.unam.mx/author/joel-martinez-soto/index.xml" rel="self" type="application/rss+xml" />
+    <description>Joel Martínez-Soto</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>es-mx</language><copyright>© Lanirem</copyright><lastBuildDate>Fri, 01 Jun 2018 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>http://www.lanirem.inb.unam.mx/images/icon_hu9b45e6bcc86b764536e41ac887c9ae5d_37163_512x512_fill_lanczos_center_3.png</url>
+      <title>Joel Martínez-Soto</title>
+      <link>http://www.lanirem.inb.unam.mx/author/joel-martinez-soto/</link>
+    </image>
+    
+    <item>
+      <title>Neural correlates of the natural observation of an emotionally loaded video</title>
+      <link>http://www.lanirem.inb.unam.mx/publication/nanni-martinez-soto-gonzalez-santos-barrios-2018/</link>
+      <pubDate>Fri, 01 Jun 2018 00:00:00 +0000</pubDate>
+      <guid>http://www.lanirem.inb.unam.mx/publication/nanni-martinez-soto-gonzalez-santos-barrios-2018/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

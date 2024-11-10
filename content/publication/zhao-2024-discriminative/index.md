@@ -17,8 +17,8 @@ authors:
 - Yu Zhang
 tags: []
 categories: []
-date: '2024-04-01'
-lastmod: 2024-04-26T18:06:18-06:00
+date: '2024-01-01'
+lastmod: 2024-11-09T13:28:24-06:00
 featured: false
 draft: false
 
@@ -36,10 +36,9 @@ image:
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
 projects: []
-publishDate: '2024-04-27T00:06:17.850920Z'
+publishDate: '2024-11-09T19:28:23.586261Z'
 publication_types:
 - '2'
 abstract: ''
 publication: '*Nature Mental Health*'
-doi: 10.1038/s44220-024-00209-1
 ---

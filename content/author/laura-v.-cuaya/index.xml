@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Laura V. Cuaya | Lanirem</title>
+    <link>http://www.lanirem.inb.unam.mx/author/laura-v.-cuaya/</link>
+      <atom:link href="http://www.lanirem.inb.unam.mx/author/laura-v.-cuaya/index.xml" rel="self" type="application/rss+xml" />
+    <description>Laura V. Cuaya</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>es-mx</language><copyright>© Lanirem</copyright><lastBuildDate>Thu, 01 Jun 2017 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>http://www.lanirem.inb.unam.mx/images/icon_hu9b45e6bcc86b764536e41ac887c9ae5d_37163_512x512_fill_lanczos_center_3.png</url>
+      <title>Laura V. Cuaya</title>
+      <link>http://www.lanirem.inb.unam.mx/author/laura-v.-cuaya/</link>
+    </image>
+    
+    <item>
+      <title>Tactile object categories can be decoded from the parietal and lateral-occipital cortices</title>
+      <link>http://www.lanirem.inb.unam.mx/publication/hernandez-perez-cuaya-rojas-hortelano-reyes-aguilar-concha-de-lafuente-2017/</link>
+      <pubDate>Thu, 01 Jun 2017 00:00:00 +0000</pubDate>
+      <guid>http://www.lanirem.inb.unam.mx/publication/hernandez-perez-cuaya-rojas-hortelano-reyes-aguilar-concha-de-lafuente-2017/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

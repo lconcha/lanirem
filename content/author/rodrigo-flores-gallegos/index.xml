@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Rodrigo Flores-Gallegos | Lanirem</title>
+    <link>http://www.lanirem.inb.unam.mx/author/rodrigo-flores-gallegos/</link>
+      <atom:link href="http://www.lanirem.inb.unam.mx/author/rodrigo-flores-gallegos/index.xml" rel="self" type="application/rss+xml" />
+    <description>Rodrigo Flores-Gallegos</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>es-mx</language><copyright>© Lanirem</copyright><lastBuildDate>Wed, 01 Jun 2022 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>http://www.lanirem.inb.unam.mx/images/icon_hu9b45e6bcc86b764536e41ac887c9ae5d_37163_512x512_fill_lanczos_center_3.png</url>
+      <title>Rodrigo Flores-Gallegos</title>
+      <link>http://www.lanirem.inb.unam.mx/author/rodrigo-flores-gallegos/</link>
+    </image>
+    
+    <item>
+      <title>Effects of a Virtual Reality Training Program on Visual Attention and Motor Performance in Children with Reading Learning Disability</title>
+      <link>http://www.lanirem.inb.unam.mx/publication/flores-gallegos-effects-virtual-reality-2022/</link>
+      <pubDate>Wed, 01 Jun 2022 00:00:00 +0000</pubDate>
+      <guid>http://www.lanirem.inb.unam.mx/publication/flores-gallegos-effects-virtual-reality-2022/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

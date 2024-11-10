@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Ariane Fillmer | Lanirem</title>
+    <link>http://www.lanirem.inb.unam.mx/author/ariane-fillmer/</link>
+      <atom:link href="http://www.lanirem.inb.unam.mx/author/ariane-fillmer/index.xml" rel="self" type="application/rss+xml" />
+    <description>Ariane Fillmer</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>es-mx</language><copyright>© Lanirem</copyright><lastBuildDate>Mon, 01 Nov 2021 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>http://www.lanirem.inb.unam.mx/images/icon_hu9b45e6bcc86b764536e41ac887c9ae5d_37163_512x512_fill_lanczos_center_3.png</url>
+      <title>Ariane Fillmer</title>
+      <link>http://www.lanirem.inb.unam.mx/author/ariane-fillmer/</link>
+    </image>
+    
+    <item>
+      <title>Frequency Drift in MR Spectroscopy at 3T</title>
+      <link>http://www.lanirem.inb.unam.mx/publication/hui-frequency-drift-mr-2021/</link>
+      <pubDate>Mon, 01 Nov 2021 00:00:00 +0000</pubDate>
+      <guid>http://www.lanirem.inb.unam.mx/publication/hui-frequency-drift-mr-2021/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

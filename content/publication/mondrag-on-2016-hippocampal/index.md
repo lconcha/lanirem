@@ -12,7 +12,7 @@ authors:
 - Héctor Manuel Barragán-Campos
 tags: []
 categories: []
-date: 2016 Sep-Dec-01-01
+date: '2016-09-01'
 lastmod: 2024-04-26T18:05:56-06:00
 featured: false
 draft: false

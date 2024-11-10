@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Lourdes Cubero-Rego | Lanirem</title>
+    <link>http://www.lanirem.inb.unam.mx/author/lourdes-cubero-rego/</link>
+      <atom:link href="http://www.lanirem.inb.unam.mx/author/lourdes-cubero-rego/index.xml" rel="self" type="application/rss+xml" />
+    <description>Lourdes Cubero-Rego</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>es-mx</language><copyright>© Lanirem</copyright><lastBuildDate>Mon, 01 May 2023 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>http://www.lanirem.inb.unam.mx/images/icon_hu9b45e6bcc86b764536e41ac887c9ae5d_37163_512x512_fill_lanczos_center_3.png</url>
+      <title>Lourdes Cubero-Rego</title>
+      <link>http://www.lanirem.inb.unam.mx/author/lourdes-cubero-rego/</link>
+    </image>
+    
+    <item>
+      <title>Prevention of Neurological Sequelae in Preterm Infants</title>
+      <link>http://www.lanirem.inb.unam.mx/publication/gonzalez-moreira-prevention-neurological-sequelae-2023/</link>
+      <pubDate>Mon, 01 May 2023 00:00:00 +0000</pubDate>
+      <guid>http://www.lanirem.inb.unam.mx/publication/gonzalez-moreira-prevention-neurological-sequelae-2023/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Week-by-week changes in sleep EEG in healthy full-term newborns</title>
+      <link>http://www.lanirem.inb.unam.mx/publication/corsi-cabrera-cubero-rego-ricardo-garcell-harmony-2020/</link>
+      <pubDate>Wed, 01 Apr 2020 00:00:00 +0000</pubDate>
+      <guid>http://www.lanirem.inb.unam.mx/publication/corsi-cabrera-cubero-rego-ricardo-garcell-harmony-2020/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Visual evoked potentials are similar in polysomnographically defined quiet and active sleep in healthy newborns</title>
+      <link>http://www.lanirem.inb.unam.mx/publication/cubero-rego-corsi-cabrera-ricardo-garcell-cruz-martinez-harmony-2018/</link>
+      <pubDate>Wed, 01 Aug 2018 00:00:00 +0000</pubDate>
+      <guid>http://www.lanirem.inb.unam.mx/publication/cubero-rego-corsi-cabrera-ricardo-garcell-cruz-martinez-harmony-2018/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

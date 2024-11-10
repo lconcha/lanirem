@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Viviana Villicaña | Lanirem</title>
+    <link>http://www.lanirem.inb.unam.mx/author/viviana-villicana/</link>
+      <atom:link href="http://www.lanirem.inb.unam.mx/author/viviana-villicana/index.xml" rel="self" type="application/rss+xml" />
+    <description>Viviana Villicaña</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>es-mx</language><copyright>© Lanirem</copyright><lastBuildDate>Tue, 01 Mar 2022 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>http://www.lanirem.inb.unam.mx/images/icon_hu9b45e6bcc86b764536e41ac887c9ae5d_37163_512x512_fill_lanczos_center_3.png</url>
+      <title>Viviana Villicaña</title>
+      <link>http://www.lanirem.inb.unam.mx/author/viviana-villicana/</link>
+    </image>
+    
+    <item>
+      <title>The Mexican Magnetic Resonance Imaging Dataset of Patients with Cocaine Use Disorder: SUDMEX CONN</title>
+      <link>http://www.lanirem.inb.unam.mx/publication/angeles-valdez-mexican-magnetic-resonance-2022/</link>
+      <pubDate>Tue, 01 Mar 2022 00:00:00 +0000</pubDate>
+      <guid>http://www.lanirem.inb.unam.mx/publication/angeles-valdez-mexican-magnetic-resonance-2022/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Clinical and Functional Connectivity Outcomes of 5-Hz Repetitive Transcranial Magnetic Stimulation as an Add-on Treatment in Cocaine Use Disorder: A Double-Blind Randomized Controlled Trial</title>
+      <link>http://www.lanirem.inb.unam.mx/publication/garza-villarreal-clinical-functional-connectivity-2021/</link>
+      <pubDate>Thu, 01 Jul 2021 00:00:00 +0000</pubDate>
+      <guid>http://www.lanirem.inb.unam.mx/publication/garza-villarreal-clinical-functional-connectivity-2021/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Identifying cognitive deficits in cocaine dependence using standard tests and machine learning</title>
+      <link>http://www.lanirem.inb.unam.mx/publication/jimenez-angeles-valdez-villicana-reyes-zamorano-alcala-lozano-gonzalez-olvera-garza-villarreal-2019/</link>
+      <pubDate>Sun, 01 Dec 2019 00:00:00 +0000</pubDate>
+      <guid>http://www.lanirem.inb.unam.mx/publication/jimenez-angeles-valdez-villicana-reyes-zamorano-alcala-lozano-gonzalez-olvera-garza-villarreal-2019/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

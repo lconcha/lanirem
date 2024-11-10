@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>G. L. Licea-Haquet | Lanirem</title>
+    <link>http://www.lanirem.inb.unam.mx/author/g.-l.-licea-haquet/</link>
+      <atom:link href="http://www.lanirem.inb.unam.mx/author/g.-l.-licea-haquet/index.xml" rel="self" type="application/rss+xml" />
+    <description>G. L. Licea-Haquet</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>es-mx</language><copyright>© Lanirem</copyright><lastBuildDate>Wed, 01 Sep 2021 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>http://www.lanirem.inb.unam.mx/images/icon_hu9b45e6bcc86b764536e41ac887c9ae5d_37163_512x512_fill_lanczos_center_3.png</url>
+      <title>G. L. Licea-Haquet</title>
+      <link>http://www.lanirem.inb.unam.mx/author/g.-l.-licea-haquet/</link>
+    </image>
+    
+    <item>
+      <title>The Neural Substrate of Speech Act Recognition</title>
+      <link>http://www.lanirem.inb.unam.mx/publication/licea-haquet-neural-substrate-speech-2021/</link>
+      <pubDate>Wed, 01 Sep 2021 00:00:00 +0000</pubDate>
+      <guid>http://www.lanirem.inb.unam.mx/publication/licea-haquet-neural-substrate-speech-2021/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Speech act recognition in Spanish speakers</title>
+      <link>http://www.lanirem.inb.unam.mx/publication/licea-haquet-velasquez-upegui-holtgraves-giordano-2019/</link>
+      <pubDate>Fri, 01 Feb 2019 00:00:00 +0000</pubDate>
+      <guid>http://www.lanirem.inb.unam.mx/publication/licea-haquet-velasquez-upegui-holtgraves-giordano-2019/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

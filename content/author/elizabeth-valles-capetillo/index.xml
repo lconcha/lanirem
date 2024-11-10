@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Elizabeth Valles-Capetillo | Lanirem</title>
+    <link>http://www.lanirem.inb.unam.mx/author/elizabeth-valles-capetillo/</link>
+      <atom:link href="http://www.lanirem.inb.unam.mx/author/elizabeth-valles-capetillo/index.xml" rel="self" type="application/rss+xml" />
+    <description>Elizabeth Valles-Capetillo</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>es-mx</language><copyright>© Lanirem</copyright><lastBuildDate>Sat, 01 Dec 2018 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>http://www.lanirem.inb.unam.mx/images/icon_hu9b45e6bcc86b764536e41ac887c9ae5d_37163_512x512_fill_lanczos_center_3.png</url>
+      <title>Elizabeth Valles-Capetillo</title>
+      <link>http://www.lanirem.inb.unam.mx/author/elizabeth-valles-capetillo/</link>
+    </image>
+    
+    <item>
+      <title>A Quantitative Meta-analysis of Neuroimaging Studies of Pragmatic Language Comprehension: In Search of a Universal Neural Substrate</title>
+      <link>http://www.lanirem.inb.unam.mx/publication/reyes-aguilar-valles-capetillo-giordano-2018/</link>
+      <pubDate>Sat, 01 Dec 2018 00:00:00 +0000</pubDate>
+      <guid>http://www.lanirem.inb.unam.mx/publication/reyes-aguilar-valles-capetillo-giordano-2018/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>A Quantitative Meta-Analysis of Neuroimaging Studies of Pragmatic Language Comprehension: In Search of a Universal Neural Substrate</title>
+      <link>http://www.lanirem.inb.unam.mx/publication/reyes-aguilar-quantitative-metaanalysis-neuroimaging-2018-a/</link>
+      <pubDate>Sat, 01 Dec 2018 00:00:00 +0000</pubDate>
+      <guid>http://www.lanirem.inb.unam.mx/publication/reyes-aguilar-quantitative-metaanalysis-neuroimaging-2018-a/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

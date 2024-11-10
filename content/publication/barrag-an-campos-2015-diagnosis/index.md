@@ -10,7 +10,7 @@ authors:
 - Jaime D. Mondragón
 tags: []
 categories: []
-date: 2015 May-Jun-01-01
+date: '2015-01-01'
 lastmod: 2024-04-26T18:05:23-06:00
 featured: false
 draft: false

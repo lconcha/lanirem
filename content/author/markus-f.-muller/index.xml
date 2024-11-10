@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Markus F. Müller | Lanirem</title>
+    <link>http://www.lanirem.inb.unam.mx/author/markus-f.-muller/</link>
+      <atom:link href="http://www.lanirem.inb.unam.mx/author/markus-f.-muller/index.xml" rel="self" type="application/rss+xml" />
+    <description>Markus F. Müller</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>es-mx</language><copyright>© Lanirem</copyright><lastBuildDate>Tue, 01 Feb 2022 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>http://www.lanirem.inb.unam.mx/images/icon_hu9b45e6bcc86b764536e41ac887c9ae5d_37163_512x512_fill_lanczos_center_3.png</url>
+      <title>Markus F. Müller</title>
+      <link>http://www.lanirem.inb.unam.mx/author/markus-f.-muller/</link>
+    </image>
+    
+    <item>
+      <title>Stationary EEG Pattern Relates to Large-Scale Resting State Networks – An EEG-fMRI Study Connecting Brain Networks across Time-Scales</title>
+      <link>http://www.lanirem.inb.unam.mx/publication/danielarzate-mena-stationary-eeg-pattern-2022/</link>
+      <pubDate>Tue, 01 Feb 2022 00:00:00 +0000</pubDate>
+      <guid>http://www.lanirem.inb.unam.mx/publication/danielarzate-mena-stationary-eeg-pattern-2022/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

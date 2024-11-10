@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Diana Reséndez-Pérez | Lanirem</title>
+    <link>http://www.lanirem.inb.unam.mx/author/diana-resendez-perez/</link>
+      <atom:link href="http://www.lanirem.inb.unam.mx/author/diana-resendez-perez/index.xml" rel="self" type="application/rss+xml" />
+    <description>Diana Reséndez-Pérez</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>es-mx</language><copyright>© Lanirem</copyright><lastBuildDate>Sun, 01 May 2022 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>http://www.lanirem.inb.unam.mx/images/icon_hu9b45e6bcc86b764536e41ac887c9ae5d_37163_512x512_fill_lanczos_center_3.png</url>
+      <title>Diana Reséndez-Pérez</title>
+      <link>http://www.lanirem.inb.unam.mx/author/diana-resendez-perez/</link>
+    </image>
+    
+    <item>
+      <title>Fornix Volumetric Increase and Microglia Morphology Contribute to Spatial and Recognition-like Memory Decline in Ageing Male Mice</title>
+      <link>http://www.lanirem.inb.unam.mx/publication/cardenas-tueme-fornix-volumetric-increase-2022/</link>
+      <pubDate>Sun, 01 May 2022 00:00:00 +0000</pubDate>
+      <guid>http://www.lanirem.inb.unam.mx/publication/cardenas-tueme-fornix-volumetric-increase-2022/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

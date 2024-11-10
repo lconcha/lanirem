@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Yohan Yee | Lanirem</title>
+    <link>http://www.lanirem.inb.unam.mx/author/yohan-yee/</link>
+      <atom:link href="http://www.lanirem.inb.unam.mx/author/yohan-yee/index.xml" rel="self" type="application/rss+xml" />
+    <description>Yohan Yee</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>es-mx</language><copyright>© Lanirem</copyright><lastBuildDate>Sun, 01 Aug 2021 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>http://www.lanirem.inb.unam.mx/images/icon_hu9b45e6bcc86b764536e41ac887c9ae5d_37163_512x512_fill_lanczos_center_3.png</url>
+      <title>Yohan Yee</title>
+      <link>http://www.lanirem.inb.unam.mx/author/yohan-yee/</link>
+    </image>
+    
+    <item>
+      <title>Centering Inclusivity in the Design of Online Conferences-An OHBM-Open Science Perspective</title>
+      <link>http://www.lanirem.inb.unam.mx/publication/levitis-centering-inclusivity-design-2021/</link>
+      <pubDate>Sun, 01 Aug 2021 00:00:00 +0000</pubDate>
+      <guid>http://www.lanirem.inb.unam.mx/publication/levitis-centering-inclusivity-design-2021/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
